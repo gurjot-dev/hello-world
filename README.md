@@ -1,13 +1,7 @@
-# Hello, I'm Gurjot!
+# This Week
 
-## About me
+## What I want to learn
 
-- I'm learning to code and use AI
-- I'm in 7th grade
-- I live in [Chesterfield]
-
-## What I'm learning
-
-- GitHub and Git
-- Python programming
-- How AI works
+- How to use Github efficently
+- How to navigate
+- And easy shortcuts
