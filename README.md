@@ -11,9 +11,3 @@
 - GitHub and Git
 - Python programming
 - How AI works
-
-## Fun facts
-
-- My favourite hobby is drawing
-- I have a pet cat named Mochi
-- I want to build apps one day
