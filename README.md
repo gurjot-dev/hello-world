@@ -1,7 +1,7 @@
-# This Week
+# Today I learned how to:
 
-## What I want to learn
-
-- How to use Github efficently
-- How to navigate
-- And easy shortcuts
+- How to download VS code
+- How to use Terminal
+- Markdowns
+- How to create an account on Github
+- How to create a new repository
