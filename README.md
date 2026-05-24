@@ -3,7 +3,7 @@
 ## About me
 
 - I'm learning to code and use AI
-- I'm in 5th grade
+- I'm in 7th grade
 - I live in [Chesterfield]
 
 ## What I'm learning
