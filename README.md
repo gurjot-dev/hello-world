@@ -35,4 +35,5 @@
 - How to make a folder
 - How to make a file
 - How to change the name of a file
-- The meaning of cd, ls, ls -l, cd Documents, cd .., cd ~, and tab
+- The meaning of cd, ls, ls -l, cd Documents, cd .., cd ~,pwd , and tab
+- How to open VS Code
