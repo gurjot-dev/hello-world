@@ -31,7 +31,8 @@
 - How to create a new repository
 
 ## Day 2 I learned:
--How to make a folder
--How to make a file
--How to change the name of a file
--The meaning of cd, ls, ls -l, cd Documents, cd .., cd ~, and tab
+
+- How to make a folder
+- How to make a file
+- How to change the name of a file
+- The meaning of cd, ls, ls -l, cd Documents, cd .., cd ~, and tab
