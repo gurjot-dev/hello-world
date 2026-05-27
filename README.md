@@ -42,6 +42,6 @@
 - How to delete using rd
 - How to change the name of a file using mv
 - How to download extentions in VS Code
-- How to copy a file using cd
+- How to copy a file using cp
 - Short cuts
 - How to open ter inal in VS Code
