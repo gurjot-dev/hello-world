@@ -37,3 +37,11 @@
 - How to change the name of a file
 - The meaning of cd, ls, ls -l, cd Documents, cd .., cd ~,pwd , and tab
 - How to open VS Code
+
+## Day 3 I learned:
+- How to delete using rd
+- How to change the name of a file using mv
+- How to download extentions in VS Code
+- How to copy a file using cd
+- Short cuts
+- How to open ter inal in VS Code
